@@ -1,5 +1,5 @@
 # Atividade ME
- Licença de Software
+ Licença de Software Pública
 
 programa usando uma bilioteca externa
 
