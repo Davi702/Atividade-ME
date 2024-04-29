@@ -3,4 +3,4 @@
 
 programa usando uma bilioteca externa
 
-Conversão de interiro para binario
+Conversão de inteiro para binario
