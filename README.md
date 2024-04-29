@@ -5,5 +5,5 @@ programa usando uma bilioteca externa
 
 Conversão de inteiro para binario
 
-# Começando
-- Run `pip install numpy`
+# Antes de Começar
+- Baixe `pip install numpy`
